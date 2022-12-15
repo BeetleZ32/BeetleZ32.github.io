@@ -3,7 +3,7 @@ This is my home page. My name is Abraham Castaneda and I am a student at [Cal St
 
 ## Computer Science Projects
 
-My GitHub oages are [BeetleZ32]https://github.com/BeetleZ32.
+My GitHub oages are [BeetleZ32](https://github.com/BeetleZ32).
 
 ### CPSC120
 
